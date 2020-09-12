@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birthdays</string>
+
+    <string name="notification_channel_birthdays_name">Birthday notifications</string>
+
+    <string name="notification_birthday_text">%1$s\'s birthday is today!</string>
+    <string name="notification_birthday_text_age">%1$s turns %2$d today!</string>
+
+    <string name="main_hint">There\'s nothing to see here. You will get a notification when it is someone\'s birthday.</string>
+</resources>

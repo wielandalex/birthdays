@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geburtstage</string>
+    <string name="notification_channel_birthdays_name">Geburtstags Benachrichtigungen</string>
+    <string name="notification_birthday_text">%1$s hat heute Geburtstag!</string>
+    <string name="notification_birthday_text_age">%1$s wird heute %2$d!</string>
+    <string name="main_hint">Hier gibt es nichts zu sehen. Du erhältst eine Benachrichtigung wenn jemand Geburtstag hat.</string>
+</resources>
