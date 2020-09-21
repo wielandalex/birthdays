@@ -18,7 +18,7 @@ class AlarmScheduler(context: Context) {
 
         val pendingIntent = PendingIntent.getBroadcast(mContext, 0, intent, 0)
 
-        alarmManager.setInexactRepeating(
+        alarmManager.setRepeating(
             AlarmManager.RTC,
             getTrigger().timeInMillis,
             AlarmManager.INTERVAL_DAY,
